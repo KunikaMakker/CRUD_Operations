@@ -1,0 +1,22 @@
+{
+  "name": "crud_operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunikaMakker/CRUD_Operations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunikaMakker/CRUD_Operations/issues"
+  },
+  "homepage": "https://github.com/KunikaMakker/CRUD_Operations#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
